@@ -3,6 +3,7 @@
   "children": [
     {
       "name": "cyber.law.harvard.edu",
+      "slug": "cyber-law-harvard-edu",
       "children": [
         {
           "size": 1,
@@ -10,25 +11,7 @@
         },
         {
           "size": 1,
-          "name": "people"
-        }
-      ]
-    },
-    {
-      "name": "emergentbydesign.com",
-      "children": [
-        {
-          "size": 1,
-          "name": "projects"
-        }
-      ]
-    },
-    {
-      "name": "bettermeans.com",
-      "children": [
-        {
-          "size": 1,
-          "name": "front-index"
+          "name": "about"
         }
       ]
     }
