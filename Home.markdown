@@ -66,7 +66,7 @@ HTTP APIs.
 
 ----
 
-This page was forked with permission from [http://enlightenedstructure.org/Home][15]
+This page was forked with permission from [http://enlightenedstructure.org/Home/][15]
 
 ----
 
@@ -86,5 +86,5 @@ This page was forked with permission from [http://enlightenedstructure.org/Home]
 [12]: http://creativecommons.org/licenses/by-sa/3.0/us/
 [13]: http://enlightenedstructure.org/IMG/we-are.png
 [14]: http://enlightenedstructure.org/API
-[15]: http://enlightenedstructure.org/Home
+[15]: http://enlightenedstructure.org/Home/
 [16]: http://creativecommons.org/licenses/by-sa/3.0/
